@@ -102,7 +102,16 @@ a:active {
     <title>Camper Cafe Menu</title>
     <link href="styles.css" rel="stylesheet" type="text/css" />
   </head>
-
+<body>
+    <div class="menu">
+      <header>
+        <h1>CAMPER CAFE</h1>
+        <p class="established">Est. 2020</p>
+      </header>
+      <hr>
+      <main>
+        <section>
+          
 
 
 
