@@ -144,7 +144,13 @@ a:active {
           <article class="item">
             <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
           </article>
-
+ </section>
+      </main>
+      <hr class="bottom-line">
+      <footer>
+        <p>
+          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+        </p>
 
 
 
