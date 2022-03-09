@@ -91,9 +91,6 @@ a:hover {
   color: brown;
 }
 
-a:active {
-  color: brown;
-}
 
 
 
