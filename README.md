@@ -32,7 +32,12 @@ h1, h2, p {
   padding: 20px;
   max-width: 500px;
 }
-
+img {
+  display: block;
+  margin-top: -25px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 
